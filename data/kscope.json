@@ -1,6 +1,24 @@
 {
   "filings": [
     {
+      "date": "SEP 25, 2025",
+      "filing": "8-K",
+      "title": "Current report pursuant to Section 13 or 15(d)",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/7c591322476a4083d1204f28713d7318.html",
+        "PDF": "https://cdn.kscope.io/7c591322476a4083d1204f28713d7318.pdf",
+        "XLS": "https://cdn.kscope.io/7c591322476a4083d1204f28713d7318.xlsx"
+      },
+      "url": "https://cdn.kscope.io/7c591322476a4083d1204f28713d7318.html",
+      "filingDate": 1758758400,
+      "formType": "8-K"
+    },
+    {
       "date": "SEP 12, 2025",
       "filing": "3",
       "title": "Initial statement of beneficial ownership of securities",
@@ -1781,33 +1799,15 @@
       "url": "https://cdn.kscope.io/80996b9bb64356d92bbc5001ea765057.html",
       "filingDate": 1733270400,
       "formType": "EFFECT"
-    },
-    {
-      "date": "DEC 4, 2024",
-      "filing": "424B3",
-      "title": "Prospectus [Rule 424(b)(3)]",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/85669be76c24f97bd97cfff7590e6431.html",
-        "PDF": "https://cdn.kscope.io/85669be76c24f97bd97cfff7590e6431.pdf",
-        "XLS": "https://cdn.kscope.io/85669be76c24f97bd97cfff7590e6431.xlsx"
-      },
-      "url": "https://cdn.kscope.io/85669be76c24f97bd97cfff7590e6431.html",
-      "filingDate": 1733270400,
-      "formType": "424B3"
     }
   ],
   "filterTypes": [
+    "8-K",
     "3",
     "SCHEDULE 13D",
     "4",
     "SCHEDULE 13D/A",
     "EFFECT",
-    "8-K",
     "424B5",
     "425",
     "S-3/A",
@@ -1824,6 +1824,6 @@
     "10-K",
     "4/A"
   ],
-  "lastUpdated": "2025-09-18T22:00:53.874Z",
+  "lastUpdated": "2025-09-27T05:09:57.078Z",
   "totalFilings": 100
 }
