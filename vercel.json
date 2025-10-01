@@ -1,19 +1,15 @@
 {
   "headers": [
     {
-      "source": "/kscope.json",
+      "source": "/data/kscope.json",
       "headers": [
-        { "key": "Access-Control-Allow-Origin", "value": "*" },
-        { "key": "Access-Control-Allow-Methods", "value": "GET,OPTIONS" },
-        { "key": "Access-Control-Allow-Headers", "value": "Content-Type" }
+        { "key": "Access-Control-Allow-Origin", "value": "https://www.abtc.com" }
       ]
     },
     {
-      "source": "/finance.json",
+      "source": "/data/finance.json",
       "headers": [
-        { "key": "Access-Control-Allow-Origin", "value": "*" },
-        { "key": "Access-Control-Allow-Methods", "value": "GET,OPTIONS" },
-        { "key": "Access-Control-Allow-Headers", "value": "Content-Type" }
+        { "key": "Access-Control-Allow-Origin", "value": "https://www.abtc.com" }
       ]
     }
   ]
