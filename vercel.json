@@ -1,16 +1,10 @@
 {
   "headers": [
     {
-      "source": "/data/kscope.json",
+      "source": "/data/*",
       "headers": [
-        { "key": "Access-Control-Allow-Origin", "value": "https://www.abtc.com" }
+        { "key": "Access-Control-Allow-Origin", "value": "*" }
       ]
     },
-    {
-      "source": "/data/finance.json",
-      "headers": [
-        { "key": "Access-Control-Allow-Origin", "value": "https://www.abtc.com" }
-      ]
-    }
   ]
 }
