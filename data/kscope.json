@@ -703,6 +703,24 @@
       "formType": "144"
     },
     {
+      "date": "JUL 30, 2025",
+      "filing": "CORRESP",
+      "title": "Correspondence",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/9852a451443fc8506d1d4c0420ee2c74.html",
+        "PDF": "https://cdn.kscope.io/9852a451443fc8506d1d4c0420ee2c74.pdf",
+        "XLS": "https://cdn.kscope.io/9852a451443fc8506d1d4c0420ee2c74.xlsx"
+      },
+      "url": "https://cdn.kscope.io/9852a451443fc8506d1d4c0420ee2c74.html",
+      "filingDate": 1753833600,
+      "formType": "CORRESP"
+    },
+    {
       "date": "JUL 29, 2025",
       "filing": "S-4/A",
       "title": "[Amend] Registration of securities, business combinations",
@@ -721,6 +739,24 @@
       "formType": "S-4/A"
     },
     {
+      "date": "JUL 21, 2025",
+      "filing": "CORRESP",
+      "title": "Correspondence",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/a20e5a914adc76034c7838d2d4cbbf5f.html",
+        "PDF": "https://cdn.kscope.io/a20e5a914adc76034c7838d2d4cbbf5f.pdf",
+        "XLS": "https://cdn.kscope.io/a20e5a914adc76034c7838d2d4cbbf5f.xlsx"
+      },
+      "url": "https://cdn.kscope.io/a20e5a914adc76034c7838d2d4cbbf5f.html",
+      "filingDate": 1753056000,
+      "formType": "CORRESP"
+    },
+    {
       "date": "JUL 22, 2025",
       "filing": "S-4/A",
       "title": "[Amend] Registration of securities, business combinations",
@@ -737,6 +773,24 @@
       "url": "https://cdn.kscope.io/86df206ed9b35115b4fef1fc8aa07871.html",
       "filingDate": 1753142400,
       "formType": "S-4/A"
+    },
+    {
+      "date": "JUL 16, 2025",
+      "filing": "UPLOAD",
+      "title": "SEC-generated letter",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/99d0a2fbf4a43b981be72c333253d5aa.html",
+        "PDF": "https://cdn.kscope.io/99d0a2fbf4a43b981be72c333253d5aa.pdf",
+        "XLS": "https://cdn.kscope.io/99d0a2fbf4a43b981be72c333253d5aa.xlsx"
+      },
+      "url": "https://cdn.kscope.io/99d0a2fbf4a43b981be72c333253d5aa.html",
+      "filingDate": 1752624000,
+      "formType": "UPLOAD"
     },
     {
       "date": "JUL 3, 2025",
@@ -829,6 +883,24 @@
       "formType": "425"
     },
     {
+      "date": "JUN 30, 2025",
+      "filing": "CORRESP",
+      "title": "Correspondence",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/55b5d17e7bd7b105c60bd9044a9a6b05.html",
+        "PDF": "https://cdn.kscope.io/55b5d17e7bd7b105c60bd9044a9a6b05.pdf",
+        "XLS": "https://cdn.kscope.io/55b5d17e7bd7b105c60bd9044a9a6b05.xlsx"
+      },
+      "url": "https://cdn.kscope.io/55b5d17e7bd7b105c60bd9044a9a6b05.html",
+      "filingDate": 1751241600,
+      "formType": "CORRESP"
+    },
+    {
       "date": "JUL 1, 2025",
       "filing": "S-4/A",
       "title": "[Amend] Registration of securities, business combinations",
@@ -845,6 +917,24 @@
       "url": "https://cdn.kscope.io/719a315dffa1512baa9e18477a067c8d.html",
       "filingDate": 1751328000,
       "formType": "S-4/A"
+    },
+    {
+      "date": "JUN 23, 2025",
+      "filing": "UPLOAD",
+      "title": "SEC-generated letter",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/82492b1b0f108065b440ce70737cc995.html",
+        "PDF": "https://cdn.kscope.io/82492b1b0f108065b440ce70737cc995.pdf",
+        "XLS": "https://cdn.kscope.io/82492b1b0f108065b440ce70737cc995.xlsx"
+      },
+      "url": "https://cdn.kscope.io/82492b1b0f108065b440ce70737cc995.html",
+      "filingDate": 1750636800,
+      "formType": "UPLOAD"
     },
     {
       "date": "JUN 13, 2025",
@@ -1709,96 +1799,6 @@
       "url": "https://cdn.kscope.io/e8c58fc16c0fb018b6165e09c5f0dde2.html",
       "filingDate": 1736467200,
       "formType": "8-K"
-    },
-    {
-      "date": "DEC 19, 2024",
-      "filing": "4",
-      "title": "Statement of changes in beneficial ownership of securities",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/1739c28abaf52d599d25dffc4ae4c98b.html",
-        "PDF": "https://cdn.kscope.io/1739c28abaf52d599d25dffc4ae4c98b.pdf",
-        "XLS": "https://cdn.kscope.io/1739c28abaf52d599d25dffc4ae4c98b.xlsx"
-      },
-      "url": "https://cdn.kscope.io/1739c28abaf52d599d25dffc4ae4c98b.html",
-      "filingDate": 1734566400,
-      "formType": "4"
-    },
-    {
-      "date": "DEC 16, 2024",
-      "filing": "3",
-      "title": "Initial statement of beneficial ownership of securities",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/39e8878b37bdef39063b4aa31bd0e7ec.html",
-        "PDF": "https://cdn.kscope.io/39e8878b37bdef39063b4aa31bd0e7ec.pdf",
-        "XLS": "https://cdn.kscope.io/39e8878b37bdef39063b4aa31bd0e7ec.xlsx"
-      },
-      "url": "https://cdn.kscope.io/39e8878b37bdef39063b4aa31bd0e7ec.html",
-      "filingDate": 1734307200,
-      "formType": "3"
-    },
-    {
-      "date": "DEC 16, 2024",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/c49731b1ff3b9370c52523e3f470790b.html",
-        "PDF": "https://cdn.kscope.io/c49731b1ff3b9370c52523e3f470790b.pdf",
-        "XLS": "https://cdn.kscope.io/c49731b1ff3b9370c52523e3f470790b.xlsx"
-      },
-      "url": "https://cdn.kscope.io/c49731b1ff3b9370c52523e3f470790b.html",
-      "filingDate": 1734307200,
-      "formType": "8-K"
-    },
-    {
-      "date": "DEC 10, 2024",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/2b95011b2cf11778414616d1d6245a5f.html",
-        "PDF": "https://cdn.kscope.io/2b95011b2cf11778414616d1d6245a5f.pdf",
-        "XLS": "https://cdn.kscope.io/2b95011b2cf11778414616d1d6245a5f.xlsx"
-      },
-      "url": "https://cdn.kscope.io/2b95011b2cf11778414616d1d6245a5f.html",
-      "filingDate": 1733788800,
-      "formType": "8-K"
-    },
-    {
-      "date": "DEC 4, 2024",
-      "filing": "EFFECT",
-      "title": "Notice of Effectiveness",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/80996b9bb64356d92bbc5001ea765057.html",
-        "PDF": "https://cdn.kscope.io/80996b9bb64356d92bbc5001ea765057.pdf",
-        "XLS": "https://cdn.kscope.io/80996b9bb64356d92bbc5001ea765057.xlsx"
-      },
-      "url": "https://cdn.kscope.io/80996b9bb64356d92bbc5001ea765057.html",
-      "filingDate": 1733270400,
-      "formType": "EFFECT"
     }
   ],
   "filterTypes": [
@@ -1816,7 +1816,9 @@
     "SCHEDULE 13G/A",
     "S-3",
     "144",
+    "CORRESP",
     "S-4/A",
+    "UPLOAD",
     "8-K/A",
     "S-4",
     "DEF 14A",
@@ -1824,6 +1826,6 @@
     "10-K",
     "4/A"
   ],
-  "lastUpdated": "2025-09-30T04:00:41.950Z",
+  "lastUpdated": "2025-10-01T04:00:41.767Z",
   "totalFilings": 100
 }
