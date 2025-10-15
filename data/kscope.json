@@ -1,6 +1,24 @@
 {
   "filings": [
     {
+      "date": "OCT 14, 2025",
+      "filing": "144",
+      "title": "Notice of proposed sale of securities pursuant to Rule 144",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/79a6acae720ffc533dd354c8fe63076e.html",
+        "PDF": "https://cdn.kscope.io/79a6acae720ffc533dd354c8fe63076e.pdf",
+        "XLS": "https://cdn.kscope.io/79a6acae720ffc533dd354c8fe63076e.xlsx"
+      },
+      "url": "https://cdn.kscope.io/79a6acae720ffc533dd354c8fe63076e.html",
+      "filingDate": 1760400000,
+      "formType": "144"
+    },
+    {
       "date": "SEP 25, 2025",
       "filing": "8-K",
       "title": "Current report pursuant to Section 13 or 15(d)",
@@ -1781,27 +1799,10 @@
       "url": "https://cdn.kscope.io/1dee60d74529b4fae1277c5a3fed2b23.html",
       "filingDate": 1736467200,
       "formType": "4"
-    },
-    {
-      "date": "JAN 10, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/e8c58fc16c0fb018b6165e09c5f0dde2.html",
-        "PDF": "https://cdn.kscope.io/e8c58fc16c0fb018b6165e09c5f0dde2.pdf",
-        "XLS": "https://cdn.kscope.io/e8c58fc16c0fb018b6165e09c5f0dde2.xlsx"
-      },
-      "url": "https://cdn.kscope.io/e8c58fc16c0fb018b6165e09c5f0dde2.html",
-      "filingDate": 1736467200,
-      "formType": "8-K"
     }
   ],
   "filterTypes": [
+    "144",
     "8-K",
     "3",
     "SCHEDULE 13D",
@@ -1815,7 +1816,6 @@
     "10-Q",
     "SCHEDULE 13G/A",
     "S-3",
-    "144",
     "CORRESP",
     "S-4/A",
     "UPLOAD",
@@ -1826,6 +1826,6 @@
     "10-K",
     "4/A"
   ],
-  "lastUpdated": "2025-10-14T04:00:41.774Z",
+  "lastUpdated": "2025-10-15T04:00:42.138Z",
   "totalFilings": 100
 }
