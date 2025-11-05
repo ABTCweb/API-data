@@ -1,6 +1,24 @@
 {
   "filings": [
     {
+      "date": "NOV 4, 2025",
+      "filing": "8-K",
+      "title": "Current report pursuant to Section 13 or 15(d)",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/1ad8fed39fe391cd91995c6164c6be5b.html",
+        "PDF": "https://cdn.kscope.io/1ad8fed39fe391cd91995c6164c6be5b.pdf",
+        "XLS": "https://cdn.kscope.io/1ad8fed39fe391cd91995c6164c6be5b.xlsx"
+      },
+      "url": "https://cdn.kscope.io/1ad8fed39fe391cd91995c6164c6be5b.html",
+      "filingDate": 1762214400,
+      "formType": "8-K"
+    },
+    {
       "date": "OCT 14, 2025",
       "filing": "144",
       "title": "Notice of proposed sale of securities pursuant to Rule 144",
@@ -1781,29 +1799,11 @@
       "url": "https://cdn.kscope.io/078ec3e14be7ba9c2f963ae54cf67045.html",
       "filingDate": 1736726400,
       "formType": "424B5"
-    },
-    {
-      "date": "JAN 10, 2025",
-      "filing": "4",
-      "title": "Statement of changes in beneficial ownership of securities",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/1dee60d74529b4fae1277c5a3fed2b23.html",
-        "PDF": "https://cdn.kscope.io/1dee60d74529b4fae1277c5a3fed2b23.pdf",
-        "XLS": "https://cdn.kscope.io/1dee60d74529b4fae1277c5a3fed2b23.xlsx"
-      },
-      "url": "https://cdn.kscope.io/1dee60d74529b4fae1277c5a3fed2b23.html",
-      "filingDate": 1736467200,
-      "formType": "4"
     }
   ],
   "filterTypes": [
-    "144",
     "8-K",
+    "144",
     "3",
     "SCHEDULE 13D",
     "4",
@@ -1826,6 +1826,6 @@
     "10-K",
     "4/A"
   ],
-  "lastUpdated": "2025-11-04T05:00:41.898Z",
+  "lastUpdated": "2025-11-05T05:00:41.984Z",
   "totalFilings": 100
 }
