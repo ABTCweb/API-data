@@ -1,6 +1,42 @@
 {
   "filings": [
     {
+      "date": "NOV 14, 2025",
+      "filing": "8-K",
+      "title": "Current report pursuant to Section 13 or 15(d)",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/5c90ee712f95a002f4327f6e300d4c91.html",
+        "PDF": "https://cdn.kscope.io/5c90ee712f95a002f4327f6e300d4c91.pdf",
+        "XLS": "https://cdn.kscope.io/5c90ee712f95a002f4327f6e300d4c91.xlsx"
+      },
+      "url": "https://cdn.kscope.io/5c90ee712f95a002f4327f6e300d4c91.html",
+      "filingDate": 1763078400,
+      "formType": "8-K"
+    },
+    {
+      "date": "NOV 14, 2025",
+      "filing": "10-Q",
+      "title": "General form for quarterly reports under Section 13 or 15(d)",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/5717aef6093f0110c8a6dc554037af0d.html",
+        "PDF": "https://cdn.kscope.io/5717aef6093f0110c8a6dc554037af0d.pdf",
+        "XLS": "https://cdn.kscope.io/5717aef6093f0110c8a6dc554037af0d.xlsx"
+      },
+      "url": "https://cdn.kscope.io/5717aef6093f0110c8a6dc554037af0d.html",
+      "filingDate": 1763078400,
+      "formType": "10-Q"
+    },
+    {
       "date": "NOV 4, 2025",
       "filing": "8-K",
       "title": "Current report pursuant to Section 13 or 15(d)",
@@ -1763,46 +1799,11 @@
       "url": "https://cdn.kscope.io/34ec2e993eb66e215c2c03924762cdd7.html",
       "filingDate": 1736812800,
       "formType": "8-K"
-    },
-    {
-      "date": "JAN 13, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/04d993d1f74b3cf75ebb42779693668b.html",
-        "PDF": "https://cdn.kscope.io/04d993d1f74b3cf75ebb42779693668b.pdf",
-        "XLS": "https://cdn.kscope.io/04d993d1f74b3cf75ebb42779693668b.xlsx"
-      },
-      "url": "https://cdn.kscope.io/04d993d1f74b3cf75ebb42779693668b.html",
-      "filingDate": 1736726400,
-      "formType": "8-K"
-    },
-    {
-      "date": "JAN 13, 2025",
-      "filing": "424B5",
-      "title": "Prospectus [Rule 424(b)(5)]",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/078ec3e14be7ba9c2f963ae54cf67045.html",
-        "PDF": "https://cdn.kscope.io/078ec3e14be7ba9c2f963ae54cf67045.pdf",
-        "XLS": "https://cdn.kscope.io/078ec3e14be7ba9c2f963ae54cf67045.xlsx"
-      },
-      "url": "https://cdn.kscope.io/078ec3e14be7ba9c2f963ae54cf67045.html",
-      "filingDate": 1736726400,
-      "formType": "424B5"
     }
   ],
   "filterTypes": [
     "8-K",
+    "10-Q",
     "144",
     "3",
     "SCHEDULE 13D",
@@ -1813,7 +1814,6 @@
     "425",
     "S-3/A",
     "424B3",
-    "10-Q",
     "SCHEDULE 13G/A",
     "S-3",
     "CORRESP",
@@ -1826,6 +1826,6 @@
     "10-K",
     "4/A"
   ],
-  "lastUpdated": "2025-11-14T05:00:42.171Z",
+  "lastUpdated": "2025-11-15T05:00:41.784Z",
   "totalFilings": 100
 }
