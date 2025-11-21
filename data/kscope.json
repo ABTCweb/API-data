@@ -1,6 +1,24 @@
 {
   "filings": [
     {
+      "date": "NOV 20, 2025",
+      "filing": "SCHEDULE 13D/A",
+      "title": "[Amend] General statement of acquisition of beneficial ownership",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/506332646c28f000778b48809075c33a.html",
+        "PDF": "https://cdn.kscope.io/506332646c28f000778b48809075c33a.pdf",
+        "XLS": "https://cdn.kscope.io/506332646c28f000778b48809075c33a.xlsx"
+      },
+      "url": "https://cdn.kscope.io/506332646c28f000778b48809075c33a.html",
+      "filingDate": 1763596800,
+      "formType": "SCHEDULE 13D/A"
+    },
+    {
       "date": "NOV 14, 2025",
       "filing": "8-K",
       "title": "Current report pursuant to Section 13 or 15(d)",
@@ -1781,34 +1799,16 @@
       "url": "https://cdn.kscope.io/27d9c0bf6a5f8133822064bed3581a37.html",
       "filingDate": 1736899200,
       "formType": "4"
-    },
-    {
-      "date": "JAN 14, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/34ec2e993eb66e215c2c03924762cdd7.html",
-        "PDF": "https://cdn.kscope.io/34ec2e993eb66e215c2c03924762cdd7.pdf",
-        "XLS": "https://cdn.kscope.io/34ec2e993eb66e215c2c03924762cdd7.xlsx"
-      },
-      "url": "https://cdn.kscope.io/34ec2e993eb66e215c2c03924762cdd7.html",
-      "filingDate": 1736812800,
-      "formType": "8-K"
     }
   ],
   "filterTypes": [
+    "SCHEDULE 13D/A",
     "8-K",
     "10-Q",
     "144",
     "3",
     "SCHEDULE 13D",
     "4",
-    "SCHEDULE 13D/A",
     "EFFECT",
     "424B5",
     "425",
@@ -1826,6 +1826,6 @@
     "10-K",
     "4/A"
   ],
-  "lastUpdated": "2025-11-20T05:00:42.311Z",
+  "lastUpdated": "2025-11-21T05:00:44.088Z",
   "totalFilings": 100
 }
