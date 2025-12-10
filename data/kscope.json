@@ -1,6 +1,24 @@
 {
   "filings": [
     {
+      "date": "DEC 9, 2025",
+      "filing": "4",
+      "title": "Statement of changes in beneficial ownership of securities",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/08791f77b79e2b1058220bc1117fd9d8.html",
+        "PDF": "https://cdn.kscope.io/08791f77b79e2b1058220bc1117fd9d8.pdf",
+        "XLS": "https://cdn.kscope.io/08791f77b79e2b1058220bc1117fd9d8.xlsx"
+      },
+      "url": "https://cdn.kscope.io/08791f77b79e2b1058220bc1117fd9d8.html",
+      "filingDate": 1765238400,
+      "formType": "4"
+    },
+    {
       "date": "NOV 20, 2025",
       "filing": "SCHEDULE 13D/A",
       "title": "[Amend] General statement of acquisition of beneficial ownership",
@@ -380,6 +398,24 @@
     },
     {
       "date": "SEP 2, 2025",
+      "filing": "CORRESP",
+      "title": "Correspondence",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/d1c5185a98a49a6d3015909b2d73a971.html",
+        "PDF": "https://cdn.kscope.io/d1c5185a98a49a6d3015909b2d73a971.pdf",
+        "XLS": "https://cdn.kscope.io/d1c5185a98a49a6d3015909b2d73a971.xlsx"
+      },
+      "url": "https://cdn.kscope.io/d1c5185a98a49a6d3015909b2d73a971.html",
+      "filingDate": 1756771200,
+      "formType": "CORRESP"
+    },
+    {
+      "date": "SEP 2, 2025",
       "filing": "425",
       "title": "Prospectuses and communications, business combinations",
       "formats": [
@@ -485,6 +521,42 @@
       "url": "https://cdn.kscope.io/30bb44425a97fdabc5114f96bc3a37fb.html",
       "filingDate": 1756425600,
       "formType": "425"
+    },
+    {
+      "date": "AUG 22, 2025",
+      "filing": "CORRESP",
+      "title": "Correspondence",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/8bf8109eabe37bddd47d7b418242dbec.html",
+        "PDF": "https://cdn.kscope.io/8bf8109eabe37bddd47d7b418242dbec.pdf",
+        "XLS": "https://cdn.kscope.io/8bf8109eabe37bddd47d7b418242dbec.xlsx"
+      },
+      "url": "https://cdn.kscope.io/8bf8109eabe37bddd47d7b418242dbec.html",
+      "filingDate": 1755820800,
+      "formType": "CORRESP"
+    },
+    {
+      "date": "AUG 21, 2025",
+      "filing": "UPLOAD",
+      "title": "SEC-generated letter",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/9d26947cce670b2bf638ed49b39f1338.html",
+        "PDF": "https://cdn.kscope.io/9d26947cce670b2bf638ed49b39f1338.pdf",
+        "XLS": "https://cdn.kscope.io/9d26947cce670b2bf638ed49b39f1338.xlsx"
+      },
+      "url": "https://cdn.kscope.io/9d26947cce670b2bf638ed49b39f1338.html",
+      "filingDate": 1755734400,
+      "formType": "UPLOAD"
     },
     {
       "date": "AUG 15, 2025",
@@ -1727,98 +1799,26 @@
       "url": "https://cdn.kscope.io/2df003ef48a2537d4dfe6d47604736c3.html",
       "filingDate": 1736899200,
       "formType": "4"
-    },
-    {
-      "date": "JAN 15, 2025",
-      "filing": "4",
-      "title": "Statement of changes in beneficial ownership of securities",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/b3bc23d7d33f8acca8a2bf22119ad1b8.html",
-        "PDF": "https://cdn.kscope.io/b3bc23d7d33f8acca8a2bf22119ad1b8.pdf",
-        "XLS": "https://cdn.kscope.io/b3bc23d7d33f8acca8a2bf22119ad1b8.xlsx"
-      },
-      "url": "https://cdn.kscope.io/b3bc23d7d33f8acca8a2bf22119ad1b8.html",
-      "filingDate": 1736899200,
-      "formType": "4"
-    },
-    {
-      "date": "JAN 15, 2025",
-      "filing": "4",
-      "title": "Statement of changes in beneficial ownership of securities",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/5d340d3003aad0110ebc9c16c882f16a.html",
-        "PDF": "https://cdn.kscope.io/5d340d3003aad0110ebc9c16c882f16a.pdf",
-        "XLS": "https://cdn.kscope.io/5d340d3003aad0110ebc9c16c882f16a.xlsx"
-      },
-      "url": "https://cdn.kscope.io/5d340d3003aad0110ebc9c16c882f16a.html",
-      "filingDate": 1736899200,
-      "formType": "4"
-    },
-    {
-      "date": "JAN 15, 2025",
-      "filing": "4",
-      "title": "Statement of changes in beneficial ownership of securities",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/cc8b736a55e27dfe785fa78399c508ee.html",
-        "PDF": "https://cdn.kscope.io/cc8b736a55e27dfe785fa78399c508ee.pdf",
-        "XLS": "https://cdn.kscope.io/cc8b736a55e27dfe785fa78399c508ee.xlsx"
-      },
-      "url": "https://cdn.kscope.io/cc8b736a55e27dfe785fa78399c508ee.html",
-      "filingDate": 1736899200,
-      "formType": "4"
-    },
-    {
-      "date": "JAN 15, 2025",
-      "filing": "4",
-      "title": "Statement of changes in beneficial ownership of securities",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/27d9c0bf6a5f8133822064bed3581a37.html",
-        "PDF": "https://cdn.kscope.io/27d9c0bf6a5f8133822064bed3581a37.pdf",
-        "XLS": "https://cdn.kscope.io/27d9c0bf6a5f8133822064bed3581a37.xlsx"
-      },
-      "url": "https://cdn.kscope.io/27d9c0bf6a5f8133822064bed3581a37.html",
-      "filingDate": 1736899200,
-      "formType": "4"
     }
   ],
   "filterTypes": [
+    "4",
     "SCHEDULE 13D/A",
     "8-K",
     "10-Q",
     "144",
     "3",
     "SCHEDULE 13D",
-    "4",
     "EFFECT",
     "424B5",
+    "CORRESP",
     "425",
     "S-3/A",
+    "UPLOAD",
     "424B3",
     "SCHEDULE 13G/A",
     "S-3",
-    "CORRESP",
     "S-4/A",
-    "UPLOAD",
     "8-K/A",
     "S-4",
     "DEF 14A",
@@ -1826,6 +1826,6 @@
     "10-K",
     "4/A"
   ],
-  "lastUpdated": "2025-12-09T05:00:08.604Z",
+  "lastUpdated": "2025-12-10T05:00:08.681Z",
   "totalFilings": 100
 }
