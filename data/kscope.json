@@ -1,6 +1,24 @@
 {
   "filings": [
     {
+      "date": "DEC 23, 2025",
+      "filing": "4",
+      "title": "Statement of changes in beneficial ownership of securities",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/963afaedfe6c424d7efe4704a1710b73.html",
+        "PDF": "https://cdn.kscope.io/963afaedfe6c424d7efe4704a1710b73.pdf",
+        "XLS": "https://cdn.kscope.io/963afaedfe6c424d7efe4704a1710b73.xlsx"
+      },
+      "url": "https://cdn.kscope.io/963afaedfe6c424d7efe4704a1710b73.html",
+      "filingDate": 1766448000,
+      "formType": "4"
+    },
+    {
       "date": "DEC 22, 2025",
       "filing": "SCHEDULE 13D/A",
       "title": "[Amend] General statement of acquisition of beneficial ownership",
@@ -1781,29 +1799,11 @@
       "url": "https://cdn.kscope.io/487bb8598b045d32f214da606c128a9b.html",
       "filingDate": 1736899200,
       "formType": "4"
-    },
-    {
-      "date": "JAN 15, 2025",
-      "filing": "4",
-      "title": "Statement of changes in beneficial ownership of securities",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/ed08a5686e77860f5a0caab2c69416c1.html",
-        "PDF": "https://cdn.kscope.io/ed08a5686e77860f5a0caab2c69416c1.pdf",
-        "XLS": "https://cdn.kscope.io/ed08a5686e77860f5a0caab2c69416c1.xlsx"
-      },
-      "url": "https://cdn.kscope.io/ed08a5686e77860f5a0caab2c69416c1.html",
-      "filingDate": 1736899200,
-      "formType": "4"
     }
   ],
   "filterTypes": [
-    "SCHEDULE 13D/A",
     "4",
+    "SCHEDULE 13D/A",
     "8-K",
     "10-Q",
     "144",
@@ -1826,6 +1826,6 @@
     "10-K",
     "4/A"
   ],
-  "lastUpdated": "2025-12-23T05:00:09.512Z",
+  "lastUpdated": "2025-12-24T05:00:08.643Z",
   "totalFilings": 100
 }
