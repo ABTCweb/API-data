@@ -1,6 +1,42 @@
 {
   "filings": [
     {
+      "date": "JAN 2, 2026",
+      "filing": "4",
+      "title": "Statement of changes in beneficial ownership of securities",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/3bc9b5bba37b569654f9fe118a8529b1.html",
+        "PDF": "https://cdn.kscope.io/3bc9b5bba37b569654f9fe118a8529b1.pdf",
+        "XLS": "https://cdn.kscope.io/3bc9b5bba37b569654f9fe118a8529b1.xlsx"
+      },
+      "url": "https://cdn.kscope.io/3bc9b5bba37b569654f9fe118a8529b1.html",
+      "filingDate": 1767312000,
+      "formType": "4"
+    },
+    {
+      "date": "JAN 2, 2026",
+      "filing": "4",
+      "title": "Statement of changes in beneficial ownership of securities",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/a240c833bf07cde4698a9e856d5872fe.html",
+        "PDF": "https://cdn.kscope.io/a240c833bf07cde4698a9e856d5872fe.pdf",
+        "XLS": "https://cdn.kscope.io/a240c833bf07cde4698a9e856d5872fe.xlsx"
+      },
+      "url": "https://cdn.kscope.io/a240c833bf07cde4698a9e856d5872fe.html",
+      "filingDate": 1767312000,
+      "formType": "4"
+    },
+    {
       "date": "DEC 23, 2025",
       "filing": "4",
       "title": "Statement of changes in beneficial ownership of securities",
@@ -1763,42 +1799,6 @@
       "url": "https://cdn.kscope.io/78838d3f0f4711747e65f45dbc97a6cf.html",
       "filingDate": 1738281600,
       "formType": "8-K"
-    },
-    {
-      "date": "JAN 27, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/9bb2d83cbfbb224ea6f3e86fb78c9b6f.html",
-        "PDF": "https://cdn.kscope.io/9bb2d83cbfbb224ea6f3e86fb78c9b6f.pdf",
-        "XLS": "https://cdn.kscope.io/9bb2d83cbfbb224ea6f3e86fb78c9b6f.xlsx"
-      },
-      "url": "https://cdn.kscope.io/9bb2d83cbfbb224ea6f3e86fb78c9b6f.html",
-      "filingDate": 1737936000,
-      "formType": "8-K"
-    },
-    {
-      "date": "JAN 15, 2025",
-      "filing": "4",
-      "title": "Statement of changes in beneficial ownership of securities",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/487bb8598b045d32f214da606c128a9b.html",
-        "PDF": "https://cdn.kscope.io/487bb8598b045d32f214da606c128a9b.pdf",
-        "XLS": "https://cdn.kscope.io/487bb8598b045d32f214da606c128a9b.xlsx"
-      },
-      "url": "https://cdn.kscope.io/487bb8598b045d32f214da606c128a9b.html",
-      "filingDate": 1736899200,
-      "formType": "4"
     }
   ],
   "filterTypes": [
@@ -1826,6 +1826,6 @@
     "10-K",
     "4/A"
   ],
-  "lastUpdated": "2026-01-02T05:00:09.086Z",
+  "lastUpdated": "2026-01-03T05:00:08.454Z",
   "totalFilings": 100
 }
