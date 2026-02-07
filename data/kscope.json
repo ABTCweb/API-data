@@ -1,6 +1,24 @@
 {
   "filings": [
     {
+      "date": "FEB 6, 2026",
+      "filing": "S-8",
+      "title": "Registration statement under Securities Act of 1933 to be offered to employees pursuant to certain plans",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/5c38b7b1b5dc3286c5d361e72db57b5f.html",
+        "PDF": "https://cdn.kscope.io/5c38b7b1b5dc3286c5d361e72db57b5f.pdf",
+        "XLS": "https://cdn.kscope.io/5c38b7b1b5dc3286c5d361e72db57b5f.xlsx"
+      },
+      "url": "https://cdn.kscope.io/5c38b7b1b5dc3286c5d361e72db57b5f.html",
+      "filingDate": 1770336000,
+      "formType": "S-8"
+    },
+    {
       "date": "JAN 2, 2026",
       "filing": "4",
       "title": "Statement of changes in beneficial ownership of securities",
@@ -1781,27 +1799,10 @@
       "url": "https://cdn.kscope.io/d8809ac3865d291f6b28993cb15803b3.html",
       "filingDate": 1739491200,
       "formType": "4/A"
-    },
-    {
-      "date": "JAN 31, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/78838d3f0f4711747e65f45dbc97a6cf.html",
-        "PDF": "https://cdn.kscope.io/78838d3f0f4711747e65f45dbc97a6cf.pdf",
-        "XLS": "https://cdn.kscope.io/78838d3f0f4711747e65f45dbc97a6cf.xlsx"
-      },
-      "url": "https://cdn.kscope.io/78838d3f0f4711747e65f45dbc97a6cf.html",
-      "filingDate": 1738281600,
-      "formType": "8-K"
     }
   ],
   "filterTypes": [
+    "S-8",
     "4",
     "SCHEDULE 13D/A",
     "8-K",
@@ -1826,6 +1827,6 @@
     "10-K",
     "4/A"
   ],
-  "lastUpdated": "2026-02-06T05:00:08.565Z",
+  "lastUpdated": "2026-02-07T05:00:08.418Z",
   "totalFilings": 100
 }
