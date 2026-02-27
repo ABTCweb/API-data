@@ -1,6 +1,96 @@
 {
   "filings": [
     {
+      "date": "FEB 26, 2026",
+      "filing": "4",
+      "title": "Statement of changes in beneficial ownership of securities",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/1c5925109e34731814c08514dd30a418.html",
+        "PDF": "https://cdn.kscope.io/1c5925109e34731814c08514dd30a418.pdf",
+        "XLS": "https://cdn.kscope.io/1c5925109e34731814c08514dd30a418.xlsx"
+      },
+      "url": "https://cdn.kscope.io/1c5925109e34731814c08514dd30a418.html",
+      "filingDate": 1772064000,
+      "formType": "4"
+    },
+    {
+      "date": "FEB 26, 2026",
+      "filing": "4",
+      "title": "Statement of changes in beneficial ownership of securities",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/a2f9b5a1c350ba980e435752786598a2.html",
+        "PDF": "https://cdn.kscope.io/a2f9b5a1c350ba980e435752786598a2.pdf",
+        "XLS": "https://cdn.kscope.io/a2f9b5a1c350ba980e435752786598a2.xlsx"
+      },
+      "url": "https://cdn.kscope.io/a2f9b5a1c350ba980e435752786598a2.html",
+      "filingDate": 1772064000,
+      "formType": "4"
+    },
+    {
+      "date": "FEB 26, 2026",
+      "filing": "4",
+      "title": "Statement of changes in beneficial ownership of securities",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/55575d7302e153a6de810255d22166a0.html",
+        "PDF": "https://cdn.kscope.io/55575d7302e153a6de810255d22166a0.pdf",
+        "XLS": "https://cdn.kscope.io/55575d7302e153a6de810255d22166a0.xlsx"
+      },
+      "url": "https://cdn.kscope.io/55575d7302e153a6de810255d22166a0.html",
+      "filingDate": 1772064000,
+      "formType": "4"
+    },
+    {
+      "date": "FEB 26, 2026",
+      "filing": "4",
+      "title": "Statement of changes in beneficial ownership of securities",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/66c9f3e80270ff4a9da48e29cdcfabf4.html",
+        "PDF": "https://cdn.kscope.io/66c9f3e80270ff4a9da48e29cdcfabf4.pdf",
+        "XLS": "https://cdn.kscope.io/66c9f3e80270ff4a9da48e29cdcfabf4.xlsx"
+      },
+      "url": "https://cdn.kscope.io/66c9f3e80270ff4a9da48e29cdcfabf4.html",
+      "filingDate": 1772064000,
+      "formType": "4"
+    },
+    {
+      "date": "FEB 26, 2026",
+      "filing": "8-K",
+      "title": "Current report pursuant to Section 13 or 15(d)",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/4a74ca0209b60e98ad470fb6b3b49958.html",
+        "PDF": "https://cdn.kscope.io/4a74ca0209b60e98ad470fb6b3b49958.pdf",
+        "XLS": "https://cdn.kscope.io/4a74ca0209b60e98ad470fb6b3b49958.xlsx"
+      },
+      "url": "https://cdn.kscope.io/4a74ca0209b60e98ad470fb6b3b49958.html",
+      "filingDate": 1772064000,
+      "formType": "8-K"
+    },
+    {
       "date": "FEB 6, 2026",
       "filing": "S-8",
       "title": "Registration statement under Securities Act of 1933 to be offered to employees pursuant to certain plans",
@@ -1709,103 +1799,13 @@
       "url": "https://cdn.kscope.io/0bcfa29f7a7ede38384c247b031aa722.html",
       "filingDate": 1741910400,
       "formType": "8-K"
-    },
-    {
-      "date": "MAR 11, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/4ee3af25f4e9cdec0e6bfca37dbd1026.html",
-        "PDF": "https://cdn.kscope.io/4ee3af25f4e9cdec0e6bfca37dbd1026.pdf",
-        "XLS": "https://cdn.kscope.io/4ee3af25f4e9cdec0e6bfca37dbd1026.xlsx"
-      },
-      "url": "https://cdn.kscope.io/4ee3af25f4e9cdec0e6bfca37dbd1026.html",
-      "filingDate": 1741651200,
-      "formType": "8-K"
-    },
-    {
-      "date": "MAR 11, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/8048a3c712cc4e7ee7c53b79294af9a3.html",
-        "PDF": "https://cdn.kscope.io/8048a3c712cc4e7ee7c53b79294af9a3.pdf",
-        "XLS": "https://cdn.kscope.io/8048a3c712cc4e7ee7c53b79294af9a3.xlsx"
-      },
-      "url": "https://cdn.kscope.io/8048a3c712cc4e7ee7c53b79294af9a3.html",
-      "filingDate": 1741651200,
-      "formType": "8-K"
-    },
-    {
-      "date": "MAR 3, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/de18a4cabf0fb11fe89afb6f0a1f4ea6.html",
-        "PDF": "https://cdn.kscope.io/de18a4cabf0fb11fe89afb6f0a1f4ea6.pdf",
-        "XLS": "https://cdn.kscope.io/de18a4cabf0fb11fe89afb6f0a1f4ea6.xlsx"
-      },
-      "url": "https://cdn.kscope.io/de18a4cabf0fb11fe89afb6f0a1f4ea6.html",
-      "filingDate": 1740960000,
-      "formType": "8-K"
-    },
-    {
-      "date": "FEB 26, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/6afdd56d5e194dc58afdf49bccbda5bf.html",
-        "PDF": "https://cdn.kscope.io/6afdd56d5e194dc58afdf49bccbda5bf.pdf",
-        "XLS": "https://cdn.kscope.io/6afdd56d5e194dc58afdf49bccbda5bf.xlsx"
-      },
-      "url": "https://cdn.kscope.io/6afdd56d5e194dc58afdf49bccbda5bf.html",
-      "filingDate": 1740528000,
-      "formType": "8-K"
-    },
-    {
-      "date": "FEB 14, 2025",
-      "filing": "4/A",
-      "title": "[Amend] Statement of changes in beneficial ownership of securities",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/d8809ac3865d291f6b28993cb15803b3.html",
-        "PDF": "https://cdn.kscope.io/d8809ac3865d291f6b28993cb15803b3.pdf",
-        "XLS": "https://cdn.kscope.io/d8809ac3865d291f6b28993cb15803b3.xlsx"
-      },
-      "url": "https://cdn.kscope.io/d8809ac3865d291f6b28993cb15803b3.html",
-      "filingDate": 1739491200,
-      "formType": "4/A"
     }
   ],
   "filterTypes": [
-    "S-8",
     "4",
-    "SCHEDULE 13D/A",
     "8-K",
+    "S-8",
+    "SCHEDULE 13D/A",
     "10-Q",
     "144",
     "3",
@@ -1824,9 +1824,8 @@
     "S-4",
     "DEF 14A",
     "PRE 14A",
-    "10-K",
-    "4/A"
+    "10-K"
   ],
-  "lastUpdated": "2026-02-26T05:00:10.202Z",
+  "lastUpdated": "2026-02-27T05:00:54.266Z",
   "totalFilings": 100
 }
