@@ -1,6 +1,42 @@
 {
   "filings": [
     {
+      "date": "MAR 5, 2026",
+      "filing": "4",
+      "title": "Statement of changes in beneficial ownership of securities",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/91372816f7fb50e5ce0a0246fe607054.html",
+        "PDF": "https://cdn.kscope.io/91372816f7fb50e5ce0a0246fe607054.pdf",
+        "XLS": "https://cdn.kscope.io/91372816f7fb50e5ce0a0246fe607054.xlsx"
+      },
+      "url": "https://cdn.kscope.io/91372816f7fb50e5ce0a0246fe607054.html",
+      "filingDate": 1772668800,
+      "formType": "4"
+    },
+    {
+      "date": "MAR 5, 2026",
+      "filing": "4",
+      "title": "Statement of changes in beneficial ownership of securities",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/e0d6b2dbab4b153fe6d1c1eed3461c30.html",
+        "PDF": "https://cdn.kscope.io/e0d6b2dbab4b153fe6d1c1eed3461c30.pdf",
+        "XLS": "https://cdn.kscope.io/e0d6b2dbab4b153fe6d1c1eed3461c30.xlsx"
+      },
+      "url": "https://cdn.kscope.io/e0d6b2dbab4b153fe6d1c1eed3461c30.html",
+      "filingDate": 1772668800,
+      "formType": "4"
+    },
+    {
       "date": "FEB 26, 2026",
       "filing": "4",
       "title": "Statement of changes in beneficial ownership of securities",
@@ -1763,42 +1799,6 @@
       "url": "https://cdn.kscope.io/0b4308a73a9c30717047e0e173c15dcf.html",
       "filingDate": 1743465600,
       "formType": "8-K"
-    },
-    {
-      "date": "MAR 31, 2025",
-      "filing": "10-K",
-      "title": "Annual report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/c278892f295daa498e10264e94edf190.html",
-        "PDF": "https://cdn.kscope.io/c278892f295daa498e10264e94edf190.pdf",
-        "XLS": "https://cdn.kscope.io/c278892f295daa498e10264e94edf190.xlsx"
-      },
-      "url": "https://cdn.kscope.io/c278892f295daa498e10264e94edf190.html",
-      "filingDate": 1743379200,
-      "formType": "10-K"
-    },
-    {
-      "date": "MAR 14, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/0bcfa29f7a7ede38384c247b031aa722.html",
-        "PDF": "https://cdn.kscope.io/0bcfa29f7a7ede38384c247b031aa722.pdf",
-        "XLS": "https://cdn.kscope.io/0bcfa29f7a7ede38384c247b031aa722.xlsx"
-      },
-      "url": "https://cdn.kscope.io/0bcfa29f7a7ede38384c247b031aa722.html",
-      "filingDate": 1741910400,
-      "formType": "8-K"
     }
   ],
   "filterTypes": [
@@ -1823,9 +1823,8 @@
     "8-K/A",
     "S-4",
     "DEF 14A",
-    "PRE 14A",
-    "10-K"
+    "PRE 14A"
   ],
-  "lastUpdated": "2026-03-05T05:00:54.206Z",
+  "lastUpdated": "2026-03-06T05:00:54.198Z",
   "totalFilings": 100
 }
