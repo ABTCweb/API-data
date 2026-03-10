@@ -1,6 +1,24 @@
 {
   "filings": [
     {
+      "date": "MAR 9, 2026",
+      "filing": "4",
+      "title": "Statement of changes in beneficial ownership of securities",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/3a8523d1cce475489a94f6a13d6ca27b.html",
+        "PDF": "https://cdn.kscope.io/3a8523d1cce475489a94f6a13d6ca27b.pdf",
+        "XLS": "https://cdn.kscope.io/3a8523d1cce475489a94f6a13d6ca27b.xlsx"
+      },
+      "url": "https://cdn.kscope.io/3a8523d1cce475489a94f6a13d6ca27b.html",
+      "filingDate": 1773014400,
+      "formType": "4"
+    },
+    {
       "date": "MAR 5, 2026",
       "filing": "4",
       "title": "Statement of changes in beneficial ownership of securities",
@@ -1781,24 +1799,6 @@
       "url": "https://cdn.kscope.io/d32f881f58e0383df7e8ba3cb671de72.html",
       "filingDate": 1744243200,
       "formType": "PRE 14A"
-    },
-    {
-      "date": "APR 1, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/0b4308a73a9c30717047e0e173c15dcf.html",
-        "PDF": "https://cdn.kscope.io/0b4308a73a9c30717047e0e173c15dcf.pdf",
-        "XLS": "https://cdn.kscope.io/0b4308a73a9c30717047e0e173c15dcf.xlsx"
-      },
-      "url": "https://cdn.kscope.io/0b4308a73a9c30717047e0e173c15dcf.html",
-      "filingDate": 1743465600,
-      "formType": "8-K"
     }
   ],
   "filterTypes": [
@@ -1825,6 +1825,6 @@
     "DEF 14A",
     "PRE 14A"
   ],
-  "lastUpdated": "2026-03-09T04:00:54.144Z",
+  "lastUpdated": "2026-03-10T04:00:54.070Z",
   "totalFilings": 100
 }
