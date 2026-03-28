@@ -1,6 +1,24 @@
 {
   "filings": [
     {
+      "date": "MAR 27, 2026",
+      "filing": "10-K",
+      "title": "Annual report pursuant to Section 13 or 15(d)",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/8f744d2bf9df89093363bd96dca82d70.html",
+        "PDF": "https://cdn.kscope.io/8f744d2bf9df89093363bd96dca82d70.pdf",
+        "XLS": "https://cdn.kscope.io/8f744d2bf9df89093363bd96dca82d70.xlsx"
+      },
+      "url": "https://cdn.kscope.io/8f744d2bf9df89093363bd96dca82d70.html",
+      "filingDate": 1774569600,
+      "formType": "10-K"
+    },
+    {
       "date": "MAR 9, 2026",
       "filing": "4",
       "title": "Statement of changes in beneficial ownership of securities",
@@ -1781,27 +1799,10 @@
       "url": "https://cdn.kscope.io/45c2621be32af30766fe15852a31d31b.html",
       "filingDate": 1745193600,
       "formType": "8-K"
-    },
-    {
-      "date": "APR 10, 2025",
-      "filing": "PRE 14A",
-      "title": "Preliminary proxy statement providing notification matters to be brought to a vote",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/d32f881f58e0383df7e8ba3cb671de72.html",
-        "PDF": "https://cdn.kscope.io/d32f881f58e0383df7e8ba3cb671de72.pdf",
-        "XLS": "https://cdn.kscope.io/d32f881f58e0383df7e8ba3cb671de72.xlsx"
-      },
-      "url": "https://cdn.kscope.io/d32f881f58e0383df7e8ba3cb671de72.html",
-      "filingDate": 1744243200,
-      "formType": "PRE 14A"
     }
   ],
   "filterTypes": [
+    "10-K",
     "4",
     "8-K",
     "S-8",
@@ -1822,9 +1823,8 @@
     "S-4/A",
     "8-K/A",
     "S-4",
-    "DEF 14A",
-    "PRE 14A"
+    "DEF 14A"
   ],
-  "lastUpdated": "2026-03-27T04:01:04.553Z",
+  "lastUpdated": "2026-03-28T04:01:06.027Z",
   "totalFilings": 100
 }
