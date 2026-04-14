@@ -1,6 +1,24 @@
 {
   "filings": [
     {
+      "date": "APR 13, 2026",
+      "filing": "PRE 14A",
+      "title": "Preliminary proxy statement providing notification matters to be brought to a vote",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/406af3052ca7d5ee7e4dd4f35530e22e.html",
+        "PDF": "https://cdn.kscope.io/406af3052ca7d5ee7e4dd4f35530e22e.pdf",
+        "XLS": "https://cdn.kscope.io/406af3052ca7d5ee7e4dd4f35530e22e.xlsx"
+      },
+      "url": "https://cdn.kscope.io/406af3052ca7d5ee7e4dd4f35530e22e.html",
+      "filingDate": 1776038400,
+      "formType": "PRE 14A"
+    },
+    {
       "date": "MAR 27, 2026",
       "filing": "10-K",
       "title": "Annual report pursuant to Section 13 or 15(d)",
@@ -1781,27 +1799,10 @@
       "url": "https://cdn.kscope.io/d58d9a9ce0b3539a552353225e79e30b.html",
       "filingDate": 1745193600,
       "formType": "DEF 14A"
-    },
-    {
-      "date": "APR 21, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/45c2621be32af30766fe15852a31d31b.html",
-        "PDF": "https://cdn.kscope.io/45c2621be32af30766fe15852a31d31b.pdf",
-        "XLS": "https://cdn.kscope.io/45c2621be32af30766fe15852a31d31b.xlsx"
-      },
-      "url": "https://cdn.kscope.io/45c2621be32af30766fe15852a31d31b.html",
-      "filingDate": 1745193600,
-      "formType": "8-K"
     }
   ],
   "filterTypes": [
+    "PRE 14A",
     "10-K",
     "4",
     "8-K",
@@ -1825,6 +1826,6 @@
     "S-4",
     "DEF 14A"
   ],
-  "lastUpdated": "2026-04-13T04:00:17.388Z",
+  "lastUpdated": "2026-04-14T04:00:17.500Z",
   "totalFilings": 100
 }
