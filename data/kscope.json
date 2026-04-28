@@ -1,6 +1,60 @@
 {
   "filings": [
     {
+      "date": "APR 27, 2026",
+      "filing": "ARS",
+      "title": "Annual Report to Security Holders",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/703ec6df0d24c0ea4fd651fd9ec2b24b.html",
+        "PDF": "https://cdn.kscope.io/703ec6df0d24c0ea4fd651fd9ec2b24b.pdf",
+        "XLS": "https://cdn.kscope.io/703ec6df0d24c0ea4fd651fd9ec2b24b.xlsx"
+      },
+      "url": "https://cdn.kscope.io/703ec6df0d24c0ea4fd651fd9ec2b24b.html",
+      "filingDate": 1777248000,
+      "formType": "ARS"
+    },
+    {
+      "date": "APR 27, 2026",
+      "filing": "DEFA14A",
+      "title": "Additional proxy soliciting materials - definitive",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/091621dd37cfd638274ac35d1919c792.html",
+        "PDF": "https://cdn.kscope.io/091621dd37cfd638274ac35d1919c792.pdf",
+        "XLS": "https://cdn.kscope.io/091621dd37cfd638274ac35d1919c792.xlsx"
+      },
+      "url": "https://cdn.kscope.io/091621dd37cfd638274ac35d1919c792.html",
+      "filingDate": 1777248000,
+      "formType": "DEFA14A"
+    },
+    {
+      "date": "APR 27, 2026",
+      "filing": "DEF 14A",
+      "title": "Other definitive proxy statements",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/46a37e8d991f6bee13c7f782ec49eeff.html",
+        "PDF": "https://cdn.kscope.io/46a37e8d991f6bee13c7f782ec49eeff.pdf",
+        "XLS": "https://cdn.kscope.io/46a37e8d991f6bee13c7f782ec49eeff.xlsx"
+      },
+      "url": "https://cdn.kscope.io/46a37e8d991f6bee13c7f782ec49eeff.html",
+      "filingDate": 1777248000,
+      "formType": "DEF 14A"
+    },
+    {
       "date": "APR 13, 2026",
       "filing": "PRE 14A",
       "title": "Preliminary proxy statement providing notification matters to be brought to a vote",
@@ -1745,63 +1799,12 @@
       "url": "https://cdn.kscope.io/4537ddf62e903715ae425a474058ed21.html",
       "filingDate": 1747008000,
       "formType": "425"
-    },
-    {
-      "date": "MAY 12, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/f9f0ab2f3a00a1cf82b91e33c1c1d962.html",
-        "PDF": "https://cdn.kscope.io/f9f0ab2f3a00a1cf82b91e33c1c1d962.pdf",
-        "XLS": "https://cdn.kscope.io/f9f0ab2f3a00a1cf82b91e33c1c1d962.xlsx"
-      },
-      "url": "https://cdn.kscope.io/f9f0ab2f3a00a1cf82b91e33c1c1d962.html",
-      "filingDate": 1747008000,
-      "formType": "8-K"
-    },
-    {
-      "date": "MAY 6, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/4408041d5fc9141d6680f27ed47f287c.html",
-        "PDF": "https://cdn.kscope.io/4408041d5fc9141d6680f27ed47f287c.pdf",
-        "XLS": "https://cdn.kscope.io/4408041d5fc9141d6680f27ed47f287c.xlsx"
-      },
-      "url": "https://cdn.kscope.io/4408041d5fc9141d6680f27ed47f287c.html",
-      "filingDate": 1746489600,
-      "formType": "8-K"
-    },
-    {
-      "date": "APR 21, 2025",
-      "filing": "DEF 14A",
-      "title": "Other definitive proxy statements",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/d58d9a9ce0b3539a552353225e79e30b.html",
-        "PDF": "https://cdn.kscope.io/d58d9a9ce0b3539a552353225e79e30b.pdf",
-        "XLS": "https://cdn.kscope.io/d58d9a9ce0b3539a552353225e79e30b.xlsx"
-      },
-      "url": "https://cdn.kscope.io/d58d9a9ce0b3539a552353225e79e30b.html",
-      "filingDate": 1745193600,
-      "formType": "DEF 14A"
     }
   ],
   "filterTypes": [
+    "ARS",
+    "DEFA14A",
+    "DEF 14A",
     "PRE 14A",
     "10-K",
     "4",
@@ -1823,9 +1826,8 @@
     "S-3",
     "S-4/A",
     "8-K/A",
-    "S-4",
-    "DEF 14A"
+    "S-4"
   ],
-  "lastUpdated": "2026-04-27T04:00:23.869Z",
+  "lastUpdated": "2026-04-28T04:00:23.535Z",
   "totalFilings": 100
 }
