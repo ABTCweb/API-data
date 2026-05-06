@@ -1,9 +1,9 @@
 {
   "nasdaq": {
     "symbol": "ABTC",
-    "price": 1.21,
-    "change": -1.63,
-    "volume": 1421946,
+    "price": 1.23,
+    "change": 0,
+    "volume": 3024419,
     "currency": "USD",
     "open": 1.23,
     "high": 1.25,
@@ -12,5 +12,5 @@
     "fiftyTwoWeekHigh": 14.52,
     "fiftyTwoWeekLow": 0.77
   },
-  "lastUpdated": "2026-05-06T14:00:44.009Z"
+  "lastUpdated": "2026-05-06T15:00:44.029Z"
 }
