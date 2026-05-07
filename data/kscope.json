@@ -1,6 +1,42 @@
 {
   "filings": [
     {
+      "date": "MAY 6, 2026",
+      "filing": "8-K",
+      "title": "Current report pursuant to Section 13 or 15(d)",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/078cd16c64dded7e89593e84e9205a36.html",
+        "PDF": "https://cdn.kscope.io/078cd16c64dded7e89593e84e9205a36.pdf",
+        "XLS": "https://cdn.kscope.io/078cd16c64dded7e89593e84e9205a36.xlsx"
+      },
+      "url": "https://cdn.kscope.io/078cd16c64dded7e89593e84e9205a36.html",
+      "filingDate": 1778102418,
+      "formType": "8-K"
+    },
+    {
+      "date": "MAY 6, 2026",
+      "filing": "10-Q",
+      "title": "General form for quarterly reports under Section 13 or 15(d)",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/cbc74c1ed54beb0dfeedb95c2e99870e.html",
+        "PDF": "https://cdn.kscope.io/cbc74c1ed54beb0dfeedb95c2e99870e.pdf",
+        "XLS": "https://cdn.kscope.io/cbc74c1ed54beb0dfeedb95c2e99870e.xlsx"
+      },
+      "url": "https://cdn.kscope.io/cbc74c1ed54beb0dfeedb95c2e99870e.html",
+      "filingDate": 1778102148,
+      "formType": "10-Q"
+    },
+    {
       "date": "APR 27, 2026",
       "filing": "ARS",
       "title": "Annual Report to Security Holders",
@@ -1763,55 +1799,19 @@
       "url": "https://cdn.kscope.io/28a2840382a85ce4fad2477a6a8612cf.html",
       "filingDate": 1747049985,
       "formType": "425"
-    },
-    {
-      "date": "MAY 12, 2025",
-      "filing": "425",
-      "title": "Prospectuses and communications, business combinations",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/0d050e6850c45484a196fd66f71fef14.html",
-        "PDF": "https://cdn.kscope.io/0d050e6850c45484a196fd66f71fef14.pdf",
-        "XLS": "https://cdn.kscope.io/0d050e6850c45484a196fd66f71fef14.xlsx"
-      },
-      "url": "https://cdn.kscope.io/0d050e6850c45484a196fd66f71fef14.html",
-      "filingDate": 1747049842,
-      "formType": "425"
-    },
-    {
-      "date": "MAY 12, 2025",
-      "filing": "425",
-      "title": "Prospectuses and communications, business combinations",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/4537ddf62e903715ae425a474058ed21.html",
-        "PDF": "https://cdn.kscope.io/4537ddf62e903715ae425a474058ed21.pdf",
-        "XLS": "https://cdn.kscope.io/4537ddf62e903715ae425a474058ed21.xlsx"
-      },
-      "url": "https://cdn.kscope.io/4537ddf62e903715ae425a474058ed21.html",
-      "filingDate": 1747049753,
-      "formType": "425"
     }
   ],
   "filterTypes": [
+    "8-K",
+    "10-Q",
     "ARS",
     "DEFA14A",
     "DEF 14A",
     "PRE 14A",
     "10-K",
     "4",
-    "8-K",
     "S-8",
     "SCHEDULE 13D/A",
-    "10-Q",
     "144",
     "3",
     "SCHEDULE 13D",
@@ -1828,6 +1828,6 @@
     "8-K/A",
     "S-4"
   ],
-  "lastUpdated": "2026-05-06T04:00:20.317Z",
+  "lastUpdated": "2026-05-07T04:00:20.154Z",
   "totalFilings": 100
 }
