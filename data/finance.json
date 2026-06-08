@@ -3,7 +3,7 @@
     "symbol": "ABTC",
     "price": 0.93,
     "change": 8.14,
-    "volume": 8007924,
+    "volume": 8458663,
     "currency": "USD",
     "open": 0.89,
     "high": 0.95,
@@ -12,5 +12,5 @@
     "fiftyTwoWeekHigh": 14.52,
     "fiftyTwoWeekLow": 0.77
   },
-  "lastUpdated": "2026-06-08T17:01:00.967Z"
+  "lastUpdated": "2026-06-08T18:01:00.977Z"
 }
