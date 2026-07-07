@@ -1,6 +1,24 @@
 {
   "filings": [
     {
+      "date": "JUL 6, 2026",
+      "filing": "8-K",
+      "title": "Current report pursuant to Section 13 or 15(d)",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/e80cb58d9bd8a3d2b596736089e061ff.html",
+        "PDF": "https://cdn.kscope.io/e80cb58d9bd8a3d2b596736089e061ff.pdf",
+        "XLS": "https://cdn.kscope.io/e80cb58d9bd8a3d2b596736089e061ff.xlsx"
+      },
+      "url": "https://cdn.kscope.io/e80cb58d9bd8a3d2b596736089e061ff.html",
+      "filingDate": 1783376115,
+      "formType": "8-K"
+    },
+    {
       "date": "JUN 24, 2026",
       "filing": "4",
       "title": "Statement of changes in beneficial ownership of securities",
@@ -1781,29 +1799,11 @@
       "url": "https://cdn.kscope.io/a4ef87a6b725fbf755db416bd1dd1aba.html",
       "filingDate": 1747689313,
       "formType": "425"
-    },
-    {
-      "date": "MAY 19, 2025",
-      "filing": "425",
-      "title": "Prospectuses and communications, business combinations",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/479179dd1386e6a62bdcd16cdc41d744.html",
-        "PDF": "https://cdn.kscope.io/479179dd1386e6a62bdcd16cdc41d744.pdf",
-        "XLS": "https://cdn.kscope.io/479179dd1386e6a62bdcd16cdc41d744.xlsx"
-      },
-      "url": "https://cdn.kscope.io/479179dd1386e6a62bdcd16cdc41d744.html",
-      "filingDate": 1747688702,
-      "formType": "425"
     }
   ],
   "filterTypes": [
-    "4",
     "8-K",
+    "4",
     "10-Q",
     "ARS",
     "DEFA14A",
@@ -1828,6 +1828,6 @@
     "8-K/A",
     "S-4"
   ],
-  "lastUpdated": "2026-07-06T04:00:36.851Z",
+  "lastUpdated": "2026-07-07T04:00:36.830Z",
   "totalFilings": 100
 }
