@@ -1,6 +1,60 @@
 {
   "filings": [
     {
+      "date": "AUG 3, 2026",
+      "filing": "8-K",
+      "title": "Current report pursuant to Section 13 or 15(d)",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/ffd256786237f1c838c96a9899b1fbc5.html",
+        "PDF": "https://cdn.kscope.io/ffd256786237f1c838c96a9899b1fbc5.pdf",
+        "XLS": "https://cdn.kscope.io/ffd256786237f1c838c96a9899b1fbc5.xlsx"
+      },
+      "url": "https://cdn.kscope.io/ffd256786237f1c838c96a9899b1fbc5.html",
+      "filingDate": 1785765617,
+      "formType": "8-K"
+    },
+    {
+      "date": "AUG 3, 2026",
+      "filing": "8-K",
+      "title": "Current report pursuant to Section 13 or 15(d)",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/a9c0a8a17d7de8da3e8d85828d2bde50.html",
+        "PDF": "https://cdn.kscope.io/a9c0a8a17d7de8da3e8d85828d2bde50.pdf",
+        "XLS": "https://cdn.kscope.io/a9c0a8a17d7de8da3e8d85828d2bde50.xlsx"
+      },
+      "url": "https://cdn.kscope.io/a9c0a8a17d7de8da3e8d85828d2bde50.html",
+      "filingDate": 1785756914,
+      "formType": "8-K"
+    },
+    {
+      "date": "AUG 3, 2026",
+      "filing": "10-Q",
+      "title": "General form for quarterly reports under Section 13 or 15(d)",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/a425a82b6ad4fd9aab0f579cb836a96d.html",
+        "PDF": "https://cdn.kscope.io/a425a82b6ad4fd9aab0f579cb836a96d.pdf",
+        "XLS": "https://cdn.kscope.io/a425a82b6ad4fd9aab0f579cb836a96d.xlsx"
+      },
+      "url": "https://cdn.kscope.io/a425a82b6ad4fd9aab0f579cb836a96d.html",
+      "filingDate": 1785756640,
+      "formType": "10-Q"
+    },
+    {
       "date": "JUL 31, 2026",
       "filing": "4",
       "title": "Statement of changes in beneficial ownership of securities",
@@ -1745,66 +1799,12 @@
       "url": "https://cdn.kscope.io/eac9cf44bd3ef76b753a737d376c182a.html",
       "filingDate": 1749072800,
       "formType": "SCHEDULE 13G/A"
-    },
-    {
-      "date": "MAY 27, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/2c24cdb66ca25be6a2922e162d65f76f.html",
-        "PDF": "https://cdn.kscope.io/2c24cdb66ca25be6a2922e162d65f76f.pdf",
-        "XLS": "https://cdn.kscope.io/2c24cdb66ca25be6a2922e162d65f76f.xlsx"
-      },
-      "url": "https://cdn.kscope.io/2c24cdb66ca25be6a2922e162d65f76f.html",
-      "filingDate": 1748382226,
-      "formType": "8-K"
-    },
-    {
-      "date": "MAY 23, 2025",
-      "filing": "4",
-      "title": "Statement of changes in beneficial ownership of securities",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/9045964c5df87becb8f97265c2a28eaf.html",
-        "PDF": "https://cdn.kscope.io/9045964c5df87becb8f97265c2a28eaf.pdf",
-        "XLS": "https://cdn.kscope.io/9045964c5df87becb8f97265c2a28eaf.xlsx"
-      },
-      "url": "https://cdn.kscope.io/9045964c5df87becb8f97265c2a28eaf.html",
-      "filingDate": 1748038529,
-      "formType": "4"
-    },
-    {
-      "date": "MAY 22, 2025",
-      "filing": "4",
-      "title": "Statement of changes in beneficial ownership of securities",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/4c40a2e4426acf8bd49599223cb545cb.html",
-        "PDF": "https://cdn.kscope.io/4c40a2e4426acf8bd49599223cb545cb.pdf",
-        "XLS": "https://cdn.kscope.io/4c40a2e4426acf8bd49599223cb545cb.xlsx"
-      },
-      "url": "https://cdn.kscope.io/4c40a2e4426acf8bd49599223cb545cb.html",
-      "filingDate": 1747951210,
-      "formType": "4"
     }
   ],
   "filterTypes": [
-    "4",
     "8-K",
     "10-Q",
+    "4",
     "ARS",
     "DEFA14A",
     "DEF 14A",
@@ -1828,6 +1828,6 @@
     "8-K/A",
     "S-4"
   ],
-  "lastUpdated": "2026-08-03T04:00:14.158Z",
+  "lastUpdated": "2026-08-04T04:00:15.096Z",
   "totalFilings": 100
 }
