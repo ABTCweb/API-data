@@ -1,6 +1,42 @@
 {
   "filings": [
     {
+      "date": "AUG 7, 2026",
+      "filing": "3",
+      "title": "Initial statement of beneficial ownership of securities",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/d03059ef1fe453eaacc7967d2d2a9283.html",
+        "PDF": "https://cdn.kscope.io/d03059ef1fe453eaacc7967d2d2a9283.pdf",
+        "XLS": "https://cdn.kscope.io/d03059ef1fe453eaacc7967d2d2a9283.xlsx"
+      },
+      "url": "https://cdn.kscope.io/d03059ef1fe453eaacc7967d2d2a9283.html",
+      "filingDate": 1786140003,
+      "formType": "3"
+    },
+    {
+      "date": "AUG 7, 2026",
+      "filing": "4",
+      "title": "Statement of changes in beneficial ownership of securities",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/f1809da7e5a955be0b56e6b8ab7032d1.html",
+        "PDF": "https://cdn.kscope.io/f1809da7e5a955be0b56e6b8ab7032d1.pdf",
+        "XLS": "https://cdn.kscope.io/f1809da7e5a955be0b56e6b8ab7032d1.xlsx"
+      },
+      "url": "https://cdn.kscope.io/f1809da7e5a955be0b56e6b8ab7032d1.html",
+      "filingDate": 1786137306,
+      "formType": "4"
+    },
+    {
       "date": "AUG 3, 2026",
       "filing": "8-K",
       "title": "Current report pursuant to Section 13 or 15(d)",
@@ -1763,48 +1799,13 @@
       "url": "https://cdn.kscope.io/17135b1d512e5c5ca6773bbc944b20e1.html",
       "filingDate": 1749248860,
       "formType": "S-4"
-    },
-    {
-      "date": "JUN 5, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/35c903150bc3f0fba9a7ca5d9b607af7.html",
-        "PDF": "https://cdn.kscope.io/35c903150bc3f0fba9a7ca5d9b607af7.pdf",
-        "XLS": "https://cdn.kscope.io/35c903150bc3f0fba9a7ca5d9b607af7.xlsx"
-      },
-      "url": "https://cdn.kscope.io/35c903150bc3f0fba9a7ca5d9b607af7.html",
-      "filingDate": 1749082329,
-      "formType": "8-K"
-    },
-    {
-      "date": "JUN 4, 2025",
-      "filing": "SCHEDULE 13G/A",
-      "title": "[Amend] Statement of acquisition of beneficial ownership by individuals",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/eac9cf44bd3ef76b753a737d376c182a.html",
-        "PDF": "https://cdn.kscope.io/eac9cf44bd3ef76b753a737d376c182a.pdf",
-        "XLS": "https://cdn.kscope.io/eac9cf44bd3ef76b753a737d376c182a.xlsx"
-      },
-      "url": "https://cdn.kscope.io/eac9cf44bd3ef76b753a737d376c182a.html",
-      "filingDate": 1749072800,
-      "formType": "SCHEDULE 13G/A"
     }
   ],
   "filterTypes": [
+    "3",
+    "4",
     "8-K",
     "10-Q",
-    "4",
     "ARS",
     "DEFA14A",
     "DEF 14A",
@@ -1813,7 +1814,6 @@
     "S-8",
     "SCHEDULE 13D/A",
     "144",
-    "3",
     "SCHEDULE 13D",
     "EFFECT",
     "424B5",
@@ -1828,6 +1828,6 @@
     "8-K/A",
     "S-4"
   ],
-  "lastUpdated": "2026-08-07T04:00:53.580Z",
+  "lastUpdated": "2026-08-08T04:00:53.358Z",
   "totalFilings": 100
 }
