@@ -1,6 +1,24 @@
 {
   "filings": [
     {
+      "date": "OCT 30, 2026",
+      "filing": "SCHEDULE 13G",
+      "title": "Statement of acquisition of beneficial ownership by individuals",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/35dbe66594ed3a41cad20a45716f8f28.html",
+        "PDF": "https://cdn.kscope.io/35dbe66594ed3a41cad20a45716f8f28.pdf",
+        "XLS": "https://cdn.kscope.io/35dbe66594ed3a41cad20a45716f8f28.xlsx"
+      },
+      "url": "https://cdn.kscope.io/35dbe66594ed3a41cad20a45716f8f28.html",
+      "filingDate": 1793376084,
+      "formType": "SCHEDULE 13G"
+    },
+    {
       "date": "AUG 7, 2026",
       "filing": "3",
       "title": "Initial statement of beneficial ownership of securities",
@@ -1781,27 +1799,10 @@
       "url": "https://cdn.kscope.io/b4495562b29e3477e5b95e1931495684.html",
       "filingDate": 1749510478,
       "formType": "8-K"
-    },
-    {
-      "date": "JUN 6, 2025",
-      "filing": "S-4",
-      "title": "Registration statement under Securities Act of 1933",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/17135b1d512e5c5ca6773bbc944b20e1.html",
-        "PDF": "https://cdn.kscope.io/17135b1d512e5c5ca6773bbc944b20e1.pdf",
-        "XLS": "https://cdn.kscope.io/17135b1d512e5c5ca6773bbc944b20e1.xlsx"
-      },
-      "url": "https://cdn.kscope.io/17135b1d512e5c5ca6773bbc944b20e1.html",
-      "filingDate": 1749248860,
-      "formType": "S-4"
     }
   ],
   "filterTypes": [
+    "SCHEDULE 13G",
     "3",
     "4",
     "8-K",
@@ -1825,9 +1826,8 @@
     "SCHEDULE 13G/A",
     "S-3",
     "S-4/A",
-    "8-K/A",
-    "S-4"
+    "8-K/A"
   ],
-  "lastUpdated": "2026-10-30T04:00:11.565Z",
+  "lastUpdated": "2026-10-31T04:00:11.323Z",
   "totalFilings": 100
 }
