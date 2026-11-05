@@ -1,6 +1,42 @@
 {
   "filings": [
     {
+      "date": "NOV 4, 2026",
+      "filing": "8-K",
+      "title": "Current report pursuant to Section 13 or 15(d)",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/ec50c065bb926c7be6c32aa6dc8ff49c.html",
+        "PDF": "https://cdn.kscope.io/ec50c065bb926c7be6c32aa6dc8ff49c.pdf",
+        "XLS": "https://cdn.kscope.io/ec50c065bb926c7be6c32aa6dc8ff49c.xlsx"
+      },
+      "url": "https://cdn.kscope.io/ec50c065bb926c7be6c32aa6dc8ff49c.html",
+      "filingDate": 1793831714,
+      "formType": "8-K"
+    },
+    {
+      "date": "NOV 4, 2026",
+      "filing": "10-Q",
+      "title": "General form for quarterly reports under Section 13 or 15(d)",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/82dc6f280d0e5d31f7e4f75d981eac76.html",
+        "PDF": "https://cdn.kscope.io/82dc6f280d0e5d31f7e4f75d981eac76.pdf",
+        "XLS": "https://cdn.kscope.io/82dc6f280d0e5d31f7e4f75d981eac76.xlsx"
+      },
+      "url": "https://cdn.kscope.io/82dc6f280d0e5d31f7e4f75d981eac76.html",
+      "filingDate": 1793831442,
+      "formType": "10-Q"
+    },
+    {
       "date": "OCT 30, 2026",
       "filing": "SCHEDULE 13G",
       "title": "Statement of acquisition of beneficial ownership by individuals",
@@ -1763,50 +1799,14 @@
       "url": "https://cdn.kscope.io/f6bbc7300ea052495cc9eac23441ad74.html",
       "filingDate": 1749850211,
       "formType": "8-K"
-    },
-    {
-      "date": "JUN 9, 2025",
-      "filing": "425",
-      "title": "Prospectuses and communications, business combinations",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/2ab48e08e20525beaf4e9cc99f1167be.html",
-        "PDF": "https://cdn.kscope.io/2ab48e08e20525beaf4e9cc99f1167be.pdf",
-        "XLS": "https://cdn.kscope.io/2ab48e08e20525beaf4e9cc99f1167be.xlsx"
-      },
-      "url": "https://cdn.kscope.io/2ab48e08e20525beaf4e9cc99f1167be.html",
-      "filingDate": 1749510746,
-      "formType": "425"
-    },
-    {
-      "date": "JUN 9, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/b4495562b29e3477e5b95e1931495684.html",
-        "PDF": "https://cdn.kscope.io/b4495562b29e3477e5b95e1931495684.pdf",
-        "XLS": "https://cdn.kscope.io/b4495562b29e3477e5b95e1931495684.xlsx"
-      },
-      "url": "https://cdn.kscope.io/b4495562b29e3477e5b95e1931495684.html",
-      "filingDate": 1749510478,
-      "formType": "8-K"
     }
   ],
   "filterTypes": [
+    "8-K",
+    "10-Q",
     "SCHEDULE 13G",
     "3",
     "4",
-    "8-K",
-    "10-Q",
     "ARS",
     "DEFA14A",
     "DEF 14A",
@@ -1828,6 +1828,6 @@
     "S-4/A",
     "8-K/A"
   ],
-  "lastUpdated": "2026-11-04T05:00:11.353Z",
+  "lastUpdated": "2026-11-05T05:00:11.290Z",
   "totalFilings": 100
 }
