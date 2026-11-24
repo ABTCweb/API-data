@@ -1,6 +1,24 @@
 {
   "filings": [
     {
+      "date": "NOV 23, 2026",
+      "filing": "8-K",
+      "title": "Current report pursuant to Section 13 or 15(d)",
+      "formats": [
+        "HTML",
+        "PDF",
+        "XLS"
+      ],
+      "formatUrls": {
+        "HTML": "https://cdn.kscope.io/d0989611e3af89c66e06b5d8d206f4e9.html",
+        "PDF": "https://cdn.kscope.io/d0989611e3af89c66e06b5d8d206f4e9.pdf",
+        "XLS": "https://cdn.kscope.io/d0989611e3af89c66e06b5d8d206f4e9.xlsx"
+      },
+      "url": "https://cdn.kscope.io/d0989611e3af89c66e06b5d8d206f4e9.html",
+      "filingDate": 1795437014,
+      "formType": "8-K"
+    },
+    {
       "date": "NOV 4, 2026",
       "filing": "8-K",
       "title": "Current report pursuant to Section 13 or 15(d)",
@@ -1781,24 +1799,6 @@
       "url": "https://cdn.kscope.io/82492b1b0f108065b440ce70737cc995.html",
       "filingDate": 1750692966,
       "formType": "UPLOAD"
-    },
-    {
-      "date": "JUN 13, 2025",
-      "filing": "8-K",
-      "title": "Current report pursuant to Section 13 or 15(d)",
-      "formats": [
-        "HTML",
-        "PDF",
-        "XLS"
-      ],
-      "formatUrls": {
-        "HTML": "https://cdn.kscope.io/f6bbc7300ea052495cc9eac23441ad74.html",
-        "PDF": "https://cdn.kscope.io/f6bbc7300ea052495cc9eac23441ad74.pdf",
-        "XLS": "https://cdn.kscope.io/f6bbc7300ea052495cc9eac23441ad74.xlsx"
-      },
-      "url": "https://cdn.kscope.io/f6bbc7300ea052495cc9eac23441ad74.html",
-      "filingDate": 1749850211,
-      "formType": "8-K"
     }
   ],
   "filterTypes": [
@@ -1828,6 +1828,6 @@
     "S-4/A",
     "8-K/A"
   ],
-  "lastUpdated": "2026-11-23T05:00:29.630Z",
+  "lastUpdated": "2026-11-24T05:00:29.482Z",
   "totalFilings": 100
 }
